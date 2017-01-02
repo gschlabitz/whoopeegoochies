@@ -10,6 +10,7 @@ header {
 .image {
   padding: 4px;
   border: #9ddcff;
+  width: 100%
 }
 
 h1, h2, h3 {
@@ -20,7 +21,7 @@ dt {
   font-weight: bold;
 }
 
-dd {
+dl dd {
   font-weight: normal;
 }
 
