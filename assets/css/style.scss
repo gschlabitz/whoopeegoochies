@@ -5,12 +5,17 @@
 
 header {
   background: #9ddcff;
+
+  h1 {
+    margin-left 1em;
+  }
 }
+
 
 .image {
   padding: 4px;
-  border: #9ddcff;
-  width: 100%
+  border: solid 2px #9ddcff;
+  width: 100%;
 }
 
 h1, h2, h3 {
